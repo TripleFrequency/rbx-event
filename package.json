@@ -1,0 +1,17 @@
+{
+	"name": "rbx-event",
+	"version": "1.0.0",
+	"description": "",
+	"main": "init.lua",
+	"typings": "index.d.ts",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"rbx-types": "^1.0.44"
+	},
+	"peerDependencies": {
+		"rbx-types": "^1.0.44"
+	}
+}

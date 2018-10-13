@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"rootDir": "src",
+		"outDir": "out",
+		"module": "commonjs",
+		"strict": true,
+		"noLib": true,
+		"downlevelIteration": true,
+		"declaration": true
+	},
+	"typeAcquisition": {
+		"enable": true
+	}
+}
