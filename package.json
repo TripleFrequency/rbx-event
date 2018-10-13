@@ -1,9 +1,9 @@
 {
 	"name": "rbx-event",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
-	"main": "init.lua",
-	"typings": "index.d.ts",
+	"main": "out/init.lua",
+	"typings": "out/index.d.ts",
 	"scripts": {},
 	"keywords": [],
 	"author": "",
